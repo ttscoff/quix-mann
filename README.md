@@ -1,9 +1,9 @@
 
 # README for `quix-mann` #
 
-Hi. I'm [Merlin][1], and this is my custom commands file for the [Quix][2] bookmarklet. That's mostly it. Thanks.
+Hi. I'm [Merlin][1], and this is my custom commands file for the [Quix][2] bookmarklet. It used to live at [gist #290059][8]. Now it lives here[description][9]. That's mostly it. Thanks.
 
-**N.B.**: Sounds like pops and buzzes from here? No problem. Here are some Quix-related starting places you may enjoy visiting.
+**N.B.**: Sounds like [pops and buzzes][7] from here? No problem. Here are some Quix-related starting places you may enjoy visiting.
 
 * [Learn the basics of Quix][3]
 
@@ -20,3 +20,5 @@ Hi. I'm [Merlin][1], and this is my custom commands file for the [Quix][2] bookm
 [5]: http://quixapp.com/help/ "Quix Help – Quix"
 [6]: http://quixapp.com/extend/ "Extend Quix – Quix"
 [7]: http://snltranscripts.jt.org/90/90ksinatra.phtml "Saturday Night Live - The Sinatra Group"
+[8]: http://gist.github.com/290059
+[9]: http://github.com/merlinmann/quix-mann
